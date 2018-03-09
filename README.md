@@ -6,6 +6,7 @@ Has a restAPI framework and the database for making requests and getting the pri
 * RestAPICode
 * Database update code
 * Requirements.txt
+* Figures.py to generate the plots for the various valies
 
 ## Tech stack
 * Database - Mongodb
